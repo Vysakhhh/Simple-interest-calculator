@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.title{
+  margin: 15px;
+  font-size: 34px;
+}
+.sub-title{
+  margin: 15px;
+  font-size: 16px;
+
+}
+.btn-title{
+  font-size: 26px;
+}
+.interest-btn{
+  background-color: rgba(185, 146, 3, 0.96);
+}
